@@ -1,11 +1,11 @@
 body {
     text-align: center;
-    background-color: rgb(55, 66, 158);
+    background-color: forestgreen;
 }
 h1 {
     color: yellowgreen;
 }
 p {
-    color:rgb(235, 83, 114);
+    color:cornflowerblue;
     font-weight: bold;
 }
